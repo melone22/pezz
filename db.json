@@ -1,14 +1,21 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "breed": [
+    { "id": 1, "name": "Affenpinscher" },
+    { "id": 2, "name": "Afghanischer Windhund" },
+    { "id": 3, "name": "Terrier" }
+    { "id": 1, "name": "Schäferhund" },
+    { "id": 2, "name": "Dogge" },
+    { "id": 3, "name": "Beagle" }
+    { "id": 1, "name": "Dalmatiner" },
+    { "id": 2, "name": "Boxer" },
+    { "id": 3, "name": "Chihuahua" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "illness": [
+    { "id": 2, "name": "Zucker" },
+    { "id": 3, "name": "Ohrenentzündung" }
+    { "id": 3, "name": "Arthrose" }
+    { "id": 3, "name": "Augenerkrankung" }
+    { "id": 3, "name": "Leberentzündung" }
+    { "id": 3, "name": "Leptospirose" }
+  ]
 }
