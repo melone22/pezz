@@ -2,20 +2,20 @@
   "breed": [
     { "id": 1, "name": "Affenpinscher" },
     { "id": 2, "name": "Afghanischer Windhund" },
-    { "id": 3, "name": "Terrier" }
+    { "id": 3, "name": "Terrier" },
     { "id": 1, "name": "Schäferhund" },
     { "id": 2, "name": "Dogge" },
-    { "id": 3, "name": "Beagle" }
+    { "id": 3, "name": "Beagle" },
     { "id": 1, "name": "Dalmatiner" },
     { "id": 2, "name": "Boxer" },
     { "id": 3, "name": "Chihuahua" }
   ],
   "illness": [
     { "id": 2, "name": "Zucker" },
-    { "id": 3, "name": "Ohrenentzündung" }
-    { "id": 3, "name": "Arthrose" }
-    { "id": 3, "name": "Augenerkrankung" }
-    { "id": 3, "name": "Leberentzündung" }
+    { "id": 3, "name": "Ohrenentzündung" },
+    { "id": 3, "name": "Arthrose" },
+    { "id": 3, "name": "Augenerkrankung" },
+    { "id": 3, "name": "Leberentzündung" },
     { "id": 3, "name": "Leptospirose" }
   ]
 }
