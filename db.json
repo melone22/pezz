@@ -3,19 +3,24 @@
     { "id": 1, "name": "Affenpinscher" },
     { "id": 2, "name": "Afghanischer Windhund" },
     { "id": 3, "name": "Terrier" },
-    { "id": 1, "name": "Schäferhund" },
-    { "id": 2, "name": "Dogge" },
-    { "id": 3, "name": "Beagle" },
-    { "id": 1, "name": "Dalmatiner" },
-    { "id": 2, "name": "Boxer" },
-    { "id": 3, "name": "Chihuahua" }
+    { "id": 4, "name": "Schäferhund" },
+    { "id": 5, "name": "Dogge" },
+    { "id": 6, "name": "Beagle" },
+    { "id": 7, "name": "Dalmatiner" },
+    { "id": 8, "name": "Boxer" },
+    { "id": 9, "name": "Dackel" },
+    { "id": 10, "name": "Deutsch Langhaar" },
+    { "id": 11, "name": "Dobermann" },
+    { "id": 12, "name": "Siberian Husky" },
+    { "id": 13, "name": "Pudel" },
+    { "id": 14, "name": "Mops" }
   ],
   "illness": [
-    { "id": 2, "name": "Zucker" },
-    { "id": 3, "name": "Ohrenentzündung" },
+    { "id": 1, "name": "Zucker" },
+    { "id": 2, "name": "Ohrenentzündung" },
     { "id": 3, "name": "Arthrose" },
-    { "id": 3, "name": "Augenerkrankung" },
-    { "id": 3, "name": "Leberentzündung" },
-    { "id": 3, "name": "Leptospirose" }
+    { "id": 4, "name": "Augenerkrankung" },
+    { "id": 5, "name": "Leberentzündung" },
+    { "id": 6, "name": "Leptospirose" }
   ]
 }
